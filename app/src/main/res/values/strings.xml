@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BSITF20</string>
+
+    <array name="countries">
+        <item>Pakistan</item>
+        <item>China</item>
+        <item>Palestine</item>
+        <item>UAE</item>
+        <item>Afghanistan</item>
+        <item>Iran</item>
+        <item>Azerbaijan</item>
+        <item>New Zealand</item>
+        <item>Saudi Arabia</item>
+        <item>Turkey</item>
+        <item>Malaysia</item>
+    </array>
+
+    <array name="countries_ur">
+        <item>پاکستان</item>
+        <item>چائینہ</item>
+        <item>فلسظین</item>
+        <item>یو اے ای</item>
+        <item>افغانستان</item>
+        <item>ایران</item>
+    </array>
+    <string name="long_text">Secondly, Dr Mohammad Asmat Ullah Khan (Dean, FCIT) endorsed the efforts of Integra team members and presented thanks to the Erasmus European Commission for initiating such a project to help young migrants. He expressed his views in front of participants on why it is difficult for migrants to adjust to the new culture and country and shared the way to overcome this problem. He shared his bitter and sound experiences in the USA doing his Ph.D.
+            Mr Muhammad Waheed Khan explained the ICT part of the project and showed the participants the 5 ICT courses taught to young migrants. Mr Waheed shared the importance of information technology courses created by Integra. He further explained th
+        </string>
+</resources>
