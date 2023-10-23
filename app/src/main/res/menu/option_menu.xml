@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+
+        android:id="@+id/mnNew"
+        android:icon="@drawable/pakistan"
+        android:title="New"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mnOpen"
+        android:icon="@drawable/canada"
+        android:title="Open"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/mnSave"
+        android:title="Save" />
+    <item
+        android:id="@+id/mnClose"
+        android:title="Close" />
+    <item
+        android:id="@+id/mnAbout"
+        android:title="About" />
+
+    <item android:title="Contact">
+        <menu>
+            <item android:title="Phone" />
+            <item android:title="Email" />
+            <item android:title="SMS" />
+
+        </menu>
+    </item>
+</menu>
